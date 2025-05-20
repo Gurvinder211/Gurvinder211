@@ -1,4 +1,4 @@
-# Hi there, I'm \[Your Name] 👋
+# Hi there, I'm Gurvinder 👋
 
 Welcome to my GitHub profile! I'm a passionate developer exploring modern web technologies and building useful projects to solve real-world problems.
 
