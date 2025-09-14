@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring modern web te
 
 * **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 * **Backend:** Node.js, Express.js, MongoDB
-* **Tools:** Git, GitHub, Postman, VS Code, Vite, Webpack
+* **Tools:** Git, GitHub, Postman, VS Code, Vite
 
 ## ⚖️ Goals for 2025
 
